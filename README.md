@@ -34,9 +34,6 @@
 ---
 
 
-
-[![Ferozkhanroz.com](https://img.shields.io/badge/-Ferozkhanroz.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.Ferozkhanroz.com/)
-
 ### 👨‍💻 I write my codes in
 <!-- Thanks to Alexandre, check out his repo for badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
