@@ -8,7 +8,7 @@
 
 <p>
     <h3>I am a 3rd Year undergrad from <a href="https://www.srmist.edu.in/"> <b>KPR Insntitute of Engineering and Technology</b>, Coimbatore</a>. <br>
-    A budding <em>Data scientist</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> in the morning and a <em>Gamer </em>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100px"> in the eveneing, <br>  who is <em>obsessed</em>
+    A budding <em>Data scientist</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> in the morning and a <em>Gamer </em>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100px"> in the evening, <br>  who is <em>obsessed</em>
     with the idea of <em>improving</em> myself and my <em>knowledge</em> to 
     <em>grow</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> and 
     <em>excel.</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> </h3>
@@ -55,7 +55,14 @@
 
 <!--- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferozkhanroz&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> --->
 
+# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 
 ⭐️ From [Ferozkhanroz](https://github.com/Ferozkhanroz)
