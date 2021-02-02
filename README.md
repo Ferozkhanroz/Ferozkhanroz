@@ -23,7 +23,8 @@
 - 😄 Pronouns: <b>He/His</b> <br>
 - ⚡ Fun fact: I'm <b>ENTAMOPHOBIC</b> <br>
 
-<h3 align="left">Reach me at : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px"> </h3>
+<h3 align="center"> Reach me at : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px"> </h3>
+<p>
 <a href="https://twitter.com/ferozkhan_roz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ferozkhan_roz  " height="20" width="30" /></a><a href="https://www.linkedin.com/in/ferozkhanroz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ferozkhanroz" height="20" width="30" /></a><a href="https://www.instagram.com/ferozkhan_roz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ferozkhan_roz" height="20" width="30" /></a>
 </p>
 
