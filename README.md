@@ -2,7 +2,7 @@
 .
 
 Ferozkhanroz/Ferozkhanroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Header](https://github.com/Ferozkhanroz/Ferozkhanroz/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://github.com/Ferozkhanroz/Ferozkhanroz/blob/main/ii.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Here are some ideas to get you started:
 
