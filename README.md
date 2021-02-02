@@ -14,18 +14,14 @@
     <em>excel.</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> </h3>
 </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!---Here are some ideas to get you started: --->
-
-- 🔭 I’m currently working on "Cassava disease classification" 
-- 🌱 I’m currently learning Deep Learning concepts
-- 👯 I’m looking to collaborate on .hhhh..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...jjj jjj
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .. 
+<br>
+- 🔭 I’m currently working on <b>"Cassava disease classification"</b> 
+- 🌱 I’m currently learning <b>Deep Learning concepts</b>
+- 💬 Ask me about <b>anything</b>
+- 😄 Pronouns: <b>He/His</b>
+- ⚡ Fun fact: I'm <b>ENTAMOPHOBIC</b>
 
 ---
 
