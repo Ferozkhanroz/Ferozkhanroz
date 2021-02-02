@@ -1,4 +1,5 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm [Feroz khan!](https://hemant.codes) .
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm [Feroz khan!](https://hemant.codes) . ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ferozkhanroz.Ferozkhanroz)
+
 
 <!---Ferozkhanroz/Ferozkhanroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 [![Header](https://github.com/Ferozkhanroz/Ferozkhanroz/blob/master/ii.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -83,7 +84,7 @@
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&show_icons=true&hide_border=true)
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferozkhanroz&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<!--- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferozkhanroz&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> --->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ferozkhanroz.Ferozkhanroz)
 <br>
