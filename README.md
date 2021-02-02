@@ -49,14 +49,13 @@
 
 ### 🔨 My Dev toolkit
 <p align="center">
-<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />  <img src="https://img.shields.io/badge/Linux-black?&style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />  
 </p> 
 
 
 <!--- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferozkhanroz&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> --->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ferozkhanroz.Ferozkhanroz)
-<br>
+
 
 
 ⭐️ From [Ferozkhanroz](https://github.com/Ferozkhanroz)
