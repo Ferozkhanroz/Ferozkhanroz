@@ -14,6 +14,7 @@
     <em>excel.</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> </h3>
 </p>
 
+---
 
 <!---Here are some ideas to get you started: --->
 <br>
