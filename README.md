@@ -30,6 +30,7 @@
 <a href="https://twitter.com/ferozkhan_roz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ferozkhan_roz  " height="20" width="30" /></a><a href="https://www.linkedin.com/in/ferozkhanroz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ferozkhanroz" height="20" width="30" /></a><a href="https://www.instagram.com/ferozkhan_roz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ferozkhan_roz" height="20" width="30" /></a>
 </p>
 </h3>
+
 ---
 
 
@@ -96,3 +97,5 @@
 
 
 ⭐️ From [Ferozkhanroz](https://github.com/Ferozkhanroz)
+[4.4]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[4]: mailto:ajaybalakrishnan2@gmail.com
