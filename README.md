@@ -2,6 +2,18 @@
 
 <!---Ferozkhanroz/Ferozkhanroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 [![Header](https://github.com/Ferozkhanroz/Ferozkhanroz/blob/master/ii.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<br>
+
+<p>
+  <em>
+    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>KPR Insntitute of Engineering and technology</b>, Coimbatore</a>. <br>
+    A budding <b>Data scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
 
 <!---Here are some ideas to get you started: --->
 
