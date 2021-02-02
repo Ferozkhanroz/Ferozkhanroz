@@ -5,13 +5,11 @@
 <br>
 
 <p>
-  <em>
-    <h3>I am a 3rd Year undergrad from <a href="https://www.srmist.edu.in/"> <b>KPR Insntitute of Engineering and technology</b>, Coimbatore</a>. <br>
-    A budding <b>Data scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> in the morning and a <b>Gamer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100px"> in the eveneing, <br> <br> who is <b>obsessed</b>
-    with the idea of <b>improving</b> myself and my <b>knowledge</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> </h3>
-  </em>  
+    <h3>I am a 3rd Year undergrad from <a href="https://www.srmist.edu.in/"> <b>KPR Insntitute of Engineering and Technology</b>, Coimbatore</a>. <br>
+    A budding <em>Data scientist</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> in the morning and a <em>Gamer </em>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100px"> in the eveneing, <br> <br> who is <em>obsessed</em>
+    with the idea of <em>improving</em> myself and my <em>knowledge</em> to 
+    <em>grow</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> and 
+    <em>excel.</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> </h3>
 </p>
 
 
