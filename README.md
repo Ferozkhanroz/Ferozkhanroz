@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm [Feroz khan!](https://hemant.codes).
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm [Feroz khan!](https://www.linkedin.com/in/ferozkhanroz/).
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ferozkhanroz.Ferozkhanroz)
 
 
