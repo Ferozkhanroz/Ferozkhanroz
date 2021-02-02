@@ -18,6 +18,7 @@
 
 <!---Here are some ideas to get you started: --->
 <br>
+<h4>
 - 🔭 I’m currently working on <b>"Cassava disease classification"</b> <br>
 - 🌱 I’m currently learning <b>Deep Learning concepts</b> <br>
 - 💬 Ask me about <b>anything</b> <br>
@@ -28,7 +29,7 @@
 <p align="center">
 <a href="https://twitter.com/ferozkhan_roz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@ferozkhan_roz  " height="20" width="30" /></a><a href="https://www.linkedin.com/in/ferozkhanroz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ferozkhanroz" height="20" width="30" /></a><a href="https://www.instagram.com/ferozkhan_roz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ferozkhan_roz" height="20" width="30" /></a>
 </p>
-
+</h4>
 ---
 
 
