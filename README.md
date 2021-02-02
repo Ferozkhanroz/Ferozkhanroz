@@ -55,14 +55,9 @@
 
 <!--- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferozkhanroz&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> --->
 
-# [GitHub Stats Visualization](https://github.com/jstrieb/Ferozkhanroz)
-
-<a href="https://github.com/jstrieb/Ferozkhanroz">
-
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
-</a>
+<p align='center' >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferozkhanroz&show_icons=true&theme=blue" width=420/>
+</p>
 
 
 ⭐️ From [Ferozkhanroz](https://github.com/Ferozkhanroz)
