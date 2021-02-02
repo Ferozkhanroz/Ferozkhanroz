@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning <em>Deep Learning concepts</em> <br>
 - 💬 Ask me about <em>anything</em> <br>
 - 😄 Pronouns: <em>He/His</em> <br>
-- ⚡ Fun fact: I'm <em>ENTAMOPHOBIC</em> <br>
+- ⚡ Fun fact: I'm <em>ENTAMOPHOBIC</em>. Oof these Creepy Crawlies!!😖 <br>
 
 <h3 align="center"> Reach me at : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px"> </h3>
 <p align="center">
@@ -40,7 +40,7 @@
 ### 👨‍💻 I write my codes in
 <!-- Thanks to Alexandre, check out his repo for badges https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 ### 💪 My Strongholds
 <p align="center">
