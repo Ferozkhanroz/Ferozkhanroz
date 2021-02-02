@@ -57,7 +57,7 @@
 
 # [GitHub Stats Visualization](https://github.com/jstrieb/Ferozkhanroz)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/jstrieb/Ferozkhanroz">
 
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
