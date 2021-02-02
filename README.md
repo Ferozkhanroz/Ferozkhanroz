@@ -17,11 +17,11 @@
 
 <!---Here are some ideas to get you started: --->
 <br>
-- 🔭 I’m currently working on <b>"Cassava disease classification"</b> 
-- 🌱 I’m currently learning <b>Deep Learning concepts</b>
-- 💬 Ask me about <b>anything</b>
-- 😄 Pronouns: <b>He/His</b>
-- ⚡ Fun fact: I'm <b>ENTAMOPHOBIC</b>
+- 🔭 I’m currently working on <b>"Cassava disease classification"</b> <br>
+- 🌱 I’m currently learning <b>Deep Learning concepts</b> <br>
+- 💬 Ask me about <b>anything</b> <br>
+- 😄 Pronouns: <b>He/His</b> <br>
+- ⚡ Fun fact: I'm <b>ENTAMOPHOBIC</b> <br>
 
 ---
 
