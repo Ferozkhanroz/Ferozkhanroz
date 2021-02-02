@@ -7,7 +7,7 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>KPR Insntitute of Engineering and technology</b>, Coimbatore</a>. <br>
-    A budding <b>Data scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">in the morning and a <b>Gamer ,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" width="36px"><br>in the eveneing, who is <b>obsessed</b>
+    A budding <b>Data scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">in the morning and a <b>Gamer ,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="36px"><br>in the eveneing, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
