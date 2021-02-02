@@ -1,4 +1,5 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm [Feroz khan!](https://hemant.codes) .                                                                                                   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ferozkhanroz.Ferozkhanroz)
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm [Feroz khan!](https://hemant.codes). 
+<h4 align="right">![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ferozkhanroz.Ferozkhanroz)</h3>
 
 
 <!---Ferozkhanroz/Ferozkhanroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
