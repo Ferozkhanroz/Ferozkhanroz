@@ -8,7 +8,7 @@
 
 <p>
     <h3>I am a 3rd Year undergrad from <a href="https://www.kpriet.ac.in"> <b>KPR Insntitute of Engineering and Technology</b>, Coimbatore</a>. <br>
-    A budding <em>Data scientist</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> in the morning and a <em>Gamer </em>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100px"> in the evening, <br>  who is <em>obsessed</em>
+    A budding <em>Data scientist</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> in the morning and a <em>Gamer </em>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100px"> in the night, <br>  who is <em>obsessed</em>
     with the idea of <em>improving</em> myself and my <em>knowledge</em> to 
     <em>grow</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px"> and 
     <em>excel.</em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px"> </h3>
@@ -19,7 +19,7 @@
 <!---Here are some ideas to get you started: --->
 <br>
 <h3>
-- 🔭 I’m currently working on <em>"Cassava disease classification"</em> <br>
+- 🔭 I’m currently working on <em>"Computer vision problems"</em> <br>
 - 🌱 I’m currently learning <em>Deep Learning concepts</em> <br>
 - 💬 Ask me about <em>anything</em> <br>
 - 😄 Pronouns: <em>He/His</em> <br>
